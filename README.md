@@ -14,9 +14,5 @@ Below are links to the project for the SECURITY part of the book
 1. https://github.com/dr-matt-smith/php-symfony4-book-codes-security-06-access-denied-exception
 1. https://github.com/dr-matt-smith/php-symfony4-book-codes-security-07-logger
 1. https://github.com/dr-matt-smith/php-symfony4-book-codes-security-08-role-hierarchy
+1. https://github.com/dr-matt-smith/php-symfony4-book-codes-security-09-twig-security
 
-in progress:
-
-1. https://github.com/dr-matt-smith/php-symfony4-book-codes-security-08-twig-security
-1. https://github.com/dr-matt-smith/php-symfony4-book-codes-security-09-forms-for-user-roles
-   
